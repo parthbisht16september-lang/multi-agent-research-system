@@ -1,0 +1,22 @@
+# --- Core LangChain (LCEL / Runnables, chains, prompts) ---
+langchain
+langchain-core
+langchain-community
+
+# --- LLM provider (Groq API) ---
+langchain-openai
+
+# --- ReAct agent support ---
+langgraph
+
+# --- Tool 1: Tavily search ---
+langchain-tavily
+tavily-python
+
+# --- Tool 2: BeautifulSoup web scraping ---
+beautifulsoup4
+requests
+lxml
+
+# --- Env / config ---
+python-dotenv
